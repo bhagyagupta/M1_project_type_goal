@@ -1,1 +1,1 @@
-# M1_project_type_goal
+# M1_miniproject_vaccineregistrationsystem
